@@ -1,11 +1,12 @@
 ##
-### React do Zero a Maestria (c/ hooks, router, API, Projetos)
+### Seção 1 - Introdução
 ##
 
 
 <p align="center">
   <img alt="...." src="../src/reactjs_logo_icon_170805.png" width="100%">
 </p>
+
 
 
 O React (também denominado React.js ou ReactJS) é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
@@ -88,6 +89,8 @@ npm start
 
 
 ### 1 - Introdução do curso
+
+- React do Zero a Maestria (c/ hooks, router, API, Projetos)
 
 - Exemplo:
     - reactjs_01
