@@ -195,12 +195,36 @@ npm start
 - Após a instalação podemos testar o node e o npm em um terminal, para validar a instalação
 - Note que os binários precisam estar no **PATH**, este passo estáa na instalação do Node
 
+
+**PowerShell**
+
+- Terminal
+
+- Verifica a versão do node instalado
+```
+node -v
+```
+
+- Verifica a versão do npm instalado
+```
+npm -v
+```
+
+
 - Exemplo:
     - reactjs_06
 
 
 
+### 7 - Instalação do Node.js no Linux
 
+- O download do Node.js é feito no site oficial: https://nodejs.org/en
+- Vamos baixar um arquivo **.msi**, que é o instalador
+- Note que o **npm** vem junto do Node
+- Após a instalação precisamos validar em um **terminal**
+
+- Exemplo:
+    - reactjs_07
 
 
 
