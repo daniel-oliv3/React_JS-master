@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="...." src="./src/reactjs_logo_icon_170805.png" width="60%">
+  <img alt="...." src="./src/reactjs_logo_icon_170805.png" width="100%">
 </p>
 
 
@@ -44,6 +44,17 @@ Reconciliação é o processo pelo qual o React atualiza o DOM do navegador. A c
 
 Em toda atualização, é criado uma nova Virtual DOM e compara com a sua versão anterior. Essa comparação ocorre pelo algoritmo de diffing. Após a comparação ser  realizada, uma outra Virtual DOM é produzida já com as alterações adicionadas. Por fim, o React faz a atualização da DOM “real” no navegador com o menor número de atualizações possíveis.
 
+
+- Fonte: 
+    - Link: https://pt.wikipedia.org/wiki/React_(JavaScript)
+
+
+
+
+##
+
+
+
 **Ferramentas do Programador**
 
 
@@ -71,6 +82,10 @@ npx create-react-app reactjs_01
 ```
 npm start
 ```
+
+
+##
+
 
 ### 1 - Introdução do curso
 
