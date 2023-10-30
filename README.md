@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="...." src="./src/pngwing.com.png" width="50%">
+  <img alt="...." src="./src/reactjs_logo_icon_170805.png" width="100%">
 </p>
 
 
@@ -30,7 +30,7 @@
 
 ### Seção 11 - Entenda os Hooks do React
 
-### Seção 12 - Projeto: ReactGram (React, Redux, Express, MongoDB, Mongoose e muito mais)
+### Seção 12 - Projeto: ReactGram (React, Redux, Express, MongoDB, Mongoose)
 
 ### Seção 13 - Deploy de projetos em React
 
