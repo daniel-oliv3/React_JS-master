@@ -161,3 +161,115 @@ npm start
 
 - Exemplo:
     - reactjs_04
+
+
+
+
+### 5 - O que é NPM?
+
+**O que é NPM ?**
+
+- O **npm** é um gerenciador de pacotes do Node
+- Vamos poder utilizar **bibliotecas de terceiros**, baixando elas pelo npm
+- E também **executar determinados scripts** no nosso programa
+- Dificilmente um software em Node.js não utiliza o npm
+- Os módulos externos ficam numa pasta chamada `node_modeules`
+- Ela deve ser descantável, ou seja, cada instalação do projeto baixamos todos os pacotes novamente
+
+**Npm.js**
+
+- NPM JS
+    - Link: https://www.npmjs.com/
+
+- Exemplo:
+    - reactjs_05
+
+
+### 6 - Instalação do Node.js no Windows
+
+**Instalação Node Windows**
+
+- O download do Node.js é feito no site oficial: https://nodejs.org/en
+- Vamos baixar um arquivo **.msi**, que é o instalador
+- É interessante saber que o **npm** vem junto do Node
+- Após a instalação podemos testar o node e o npm em um terminal, para validar a instalação
+- Note que os binários precisam estar no **PATH**, este passo estáa na instalação do Node
+
+- Exemplo:
+    - reactjs_06
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
