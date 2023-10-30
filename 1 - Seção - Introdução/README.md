@@ -134,8 +134,30 @@ npm start
 - Pode ser **inserido em uma aplicação** ou podemos criar a aplicação apenas com React
 - É mantido pelo **Facebook**
 
+**React.js**
+
+- Documentação:
+    - Link: https://pt-br.legacy.reactjs.org/
+
 
 - Exemplo:
     - reactjs_03
 
 
+### O que é Node.js?
+
+**O que é Node.js ?**
+
+- O **Node.js** é um runtime de JavaScript
+- Ou seja, **uma biblioteca utilizada por um compilador** durante a execução do programa
+- Que está construido na **V8 engine** (escrita em C++) da Google
+- Possibilitando criar softwares em JS no lado do servidor
+- Temos então um código JS rodando em C++ para garantir **alta performance**
+
+**Node.js**
+
+- Nodejs (LTS)
+    - Link: https://nodejs.org/en
+
+- Exemplo:
+    - reactjs_04
