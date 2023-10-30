@@ -252,9 +252,16 @@ npm -v
 
 
 
+### 8 - Instalação do Visual Studio Code
 
+- Ao longo do curso o editor utulizado será o VSCode
+- Ele tem algumas vantagens em trabalhar com Node também, como o **terminal integrado**
+- Além de ser **atualizado constantemente**, é mantido pela Microsoft
+- Muito utilizado no **ambiente corporativo**
+- Link: https://code.visualstudio.com/download
 
-
+- Exemplo:
+    - reactjs_08
 
 
 
