@@ -223,6 +223,30 @@ npm -v
 - Note que o **npm** vem junto do Node
 - Após a instalação precisamos validar em um **terminal**
 
+
+**Terminal**
+
+
+- Instala o Nodejs
+```
+sudo apt install nodejs
+```
+
+- Verifica a versão do node instalado
+```
+nodejs -v
+```
+
+- Instala o NPM
+```
+sudo apt install npm
+```
+
+- Verifica a versão do npm instalado
+```
+npm -v
+```
+
 - Exemplo:
     - reactjs_07
 
