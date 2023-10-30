@@ -281,7 +281,34 @@ npm -v
     - reactjs_09
 
 
+### 10 - Criação de projetos com Vite
 
+**Vite JS**
+
+- ViteJS
+    - Link: https://vitejs.dev/
+
+
+- Cria o projeto com vite
+```
+npm create vite@latest
+```
+
+- Instalar o npm (node_modules)
+```
+npm install
+```
+
+- Roda o projeto com vite
+```
+npm run dev
+```
+
+- Localhost
+    - Link: http://localhost:5173/
+
+- Exemplo:
+    - reactjs_10
 
 
 
