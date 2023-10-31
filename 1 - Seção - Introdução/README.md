@@ -387,9 +387,18 @@ npm run dev
 
 
 
+##
+### Tarefa 1 - Praticando React
+##
 
+**Desafio 1**
 
+- 1 Entre no nosso arquivo App.js e adicione mais algum elemento HTML da sua escolha
+- 2 Crie uma regra de estilos em App.css que altere a cor do seu elemento
+- 3 Vá ate o arquivo index.html e altere o titulo da aplicação na meta tag
 
+- Desafio:
+    - tarefa_01
 
 
 
