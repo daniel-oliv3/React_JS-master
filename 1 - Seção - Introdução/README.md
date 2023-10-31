@@ -378,7 +378,12 @@ npm run dev
 - Exemplo:
     - reactjs_15
 
+### 16 - Slides do curso
 
+`assets/Apresentação+Curso+React.pdf`
+
+- Exemplo:
+    - reactjs_16
 
 
 
