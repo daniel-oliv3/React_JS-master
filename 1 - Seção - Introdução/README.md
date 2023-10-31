@@ -414,9 +414,12 @@ npm run dev
 
 
 
+### 18 - Aviso importante sobre componentes do React JS
 
+- alteração da extensão dos arquivos de cada componente para jsx
 
-
+- Exemplo:
+    - reactjs_18
 
 
 
