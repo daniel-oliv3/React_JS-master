@@ -45,6 +45,13 @@ npm run dev
 
 ### 21 - Criando componentes
 
+**Criando componentes**
+
+- Na maioria dos projetos os componetes ficam em uma pasta chamada `components`, que devemos criar
+- Geralmente são nomeados com a **camel case**: FirstComponent.js
+- No arquivo **criamos uma função**, que contém o código deste componente (a lógica e o template)
+- É também precisamos **exportar esta função**, para reutilizá-lo
+
 - Exemplo:
     - reactjs_21
 
