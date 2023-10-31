@@ -152,10 +152,16 @@ npm run dev
 
 
 
+### 28 - Funções nos eventos
 
+**Funções nos eventos**
 
+- Quando as funções são simples, podemos **realizar a lógica no próprio evento**
+- Isso **torna nosso código mais 'complicado'**, por atrelar lógica com HTML
+- Mas em **algumas situações** é aplicável
 
-
+- Exemplo:
+    - reactjs_28
 
 
 
