@@ -167,9 +167,16 @@ npm run dev
 
 
 
+### 29 - Funções de renderização
 
+**Funções de renderização**
 
+- Podemos criar **funções que retornam JSX**
+- Isso serve para criar situações que **dependem de outras condições**
+- Ou seja, o JSX a ser renderizado pode variar por algumas variável, por exemplo
 
+- Exemplo:
+    - reactjs_29
 
 
 
