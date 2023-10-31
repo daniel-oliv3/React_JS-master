@@ -330,9 +330,26 @@ npm run dev
 
 
 
+### 12 - Extensão para React no VS Code
+
+- Há uma extensão no **marketplace** do VSCode que ajuda muito a programar em React
+- O nome dela é `ES7` + `React/Redux/Reaact-Native` snippets
+- Conseguimos criar muito código em apenas alguns atalhos
 
 
+- ES7+ React/Redux/React-Native snippets
 
+**Snippets**
+
+- Link: https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
+
+
+- Localhost:
+    - Link: http://localhost:5173/
+
+    
+- Exemplo:
+    - reactjs_12
 
 
 
