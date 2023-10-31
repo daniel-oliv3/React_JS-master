@@ -121,9 +121,15 @@ npm run dev
 
 
 
+### 26 - Hierarquia de componente
 
+**Hierarquia de componente**
 
+- Os componentes que criamos **podem ser reutilizados em vários componentes**
+- E ainda componentes **podem formar uma hierarquia**, sendo importados uns dentros dos outros, como fizemos em App
 
+- Exemplo:
+    - reactjs_26
 
 
 
