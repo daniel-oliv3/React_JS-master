@@ -105,10 +105,17 @@ npm run dev
 
 
 
+### 25 - Template expressions
 
+**Template expressions**
 
+- **Template expressions** é o recurso que nos permite executar JS no JSX e também **interpolar variáveis**
+- Isso sera muito útil ao longo dos seus projetos em React
+- A sintaxe é: `{algumCodigoEmJs}`
+- **Tudo que está entre chaves é processado em JavaScript** e nos retorna um resultado
 
-
+- Exemplo:
+    - reactjs_25
 
 
 
