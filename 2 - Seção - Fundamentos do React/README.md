@@ -88,13 +88,17 @@ npm run dev
 
 
 
+### 24 - Comentários nos componentes
 
+**Comentários nos componentes**
 
+- Podemos inserir comentários de **duas maneiras** no componente
+- Na parte da função onde é executado aa lógica, a sintaxe é: `// Algum comentário`
+- E também no JSX: `{/* Algum comentário */}`
+- As chaves nos permitem **executar sentenças em JavaScript**.
 
-
-
-
-
+- Exemplo:
+    - reactjs_24
 
 
 
