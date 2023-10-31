@@ -355,9 +355,17 @@ npm run dev
 
 
 
+### 13 - Configurando o Emmet para o React
 
+- **Emmet** é uma extensão nativa do VSCode que ajuda a escrever HTML mais rápido
+- Pórem ela **não vem configurada** para o React
+- Temos que acessar `File>Settings>Extensions` e procurar por Emmet
+- Lá vamos incluir a linguagem **javascript - javascriptreact**
 
+- Emmet include languages
 
+- Exemplo:
+    - reactjs_13
 
 
 
