@@ -401,9 +401,15 @@ npm run dev
     - tarefa_01
 
 
+### 17 - Indicações de Livros
 
+- JavaScript para Iniciantes - Aprenda a Programar JS de Forma Simples
+- 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios
+- JavaScript: O Guia Definitivo
+- React - Aprenda Praticando
 
-
+- Exemplo:
+    - reactjs_17
 
 
 
