@@ -136,9 +136,18 @@ npm run dev
 
 
 
+### 27 - Eventos
 
+**Eventos de click**
 
+- Os eventos para o front-end são **essencias**
+- Em várias situações vamos precisar do click, como ao **enviar formulários**
+- No React os eventos jaa estão 'prontos', podemos utilizar `onClick` para ativar uma função ao clicar em um elemento
+- Esta função é criada na própria função do componente
+- As funções geralmente tem o padrão `handleAlgumaCoisa`
 
+- Exemplo:
+    - reactjs_27
 
 
 
