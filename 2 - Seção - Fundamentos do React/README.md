@@ -12,7 +12,7 @@
 
 
 
-### 20 - Conclusão da seção 
+### 20 - Introdução do seção
 
 - Exemplo:
     - reactjs_20
