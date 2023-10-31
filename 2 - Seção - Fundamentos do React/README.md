@@ -56,3 +56,102 @@ npm run dev
     - reactjs_21
 
 
+### 22 - Importação de componentes
+
+**Importando componente**
+
+- A inportação é a maneira que temos de **reutilizar o componente**
+- Utilizamos a sintaxe: `inport X from './component/X'` onde X é o nome do componente
+- Para colocar o componente importado em outro componente, precisamos colocá-lo em forma de tag: `<FirstComponent />`
+- E então finalizamos o ciclo de importação
+
+
+
+- Exemplo:
+    - reactjs_22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
