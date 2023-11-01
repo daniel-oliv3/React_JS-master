@@ -46,9 +46,9 @@ npm run dev
 
 **Desafio 3**
 
-1 - Criar um projeto para a nova seção
-2 - Limpe o arquivo do componente principal
-3 - E por fim coloque o titulo de Seção 3 
+- 1 - Criar um projeto para a nova seção
+- 2 - Limpe o arquivo do componente principal
+- 3 - E por fim coloque o titulo de Seção 3 
 
 
 - Tarefa:
@@ -69,7 +69,8 @@ npm run dev
 
 
 
+### 33 - 
 
-
-
+- Exemplo:
+    - reactjs_33
 
