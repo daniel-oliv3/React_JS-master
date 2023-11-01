@@ -69,7 +69,14 @@ npm run dev
 
 
 
-### 33 - 
+### 33 - Imagens em src
+
+**Imagens em assets**
+
+- A pasta public pode ser utilizada para colocar imagens
+- Mas um padrão bem utilizado para imagens dos projetos **é colocar em uma pasta chamada assets**, em src
+- Ou seja, você vai encontrar projetos com as **duas abordagens**
+- Em assets **precisamos importar as imagens** e **o src e dinâmico** com o nome de importação
 
 - Exemplo:
     - reactjs_33
