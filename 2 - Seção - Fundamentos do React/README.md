@@ -190,12 +190,14 @@ npm run dev
 - 5: Crie também um evento de click que soma estes dois valores exibidos no console
 
 
+- Exemplo:
+    - tarefa_01
 
 
+### 30 - Conclusão do seção
 
-
-
-
+- Exemplo:
+    - reactjs_30
 
 
 
