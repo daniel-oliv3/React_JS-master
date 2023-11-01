@@ -179,8 +179,15 @@ npm run dev
     - reactjs_29
 
 
+##
+### Tarefa 2 - Desafio sobre conceitos básicos de React
+##
 
-
+- 1: Crie um componente chamado Challenge
+- 2: Importe-o em App.js
+- 3: No componente criado faça a criação de dois valores numericos
+- 4: Imprima este valores no componente
+- 5: Crie também um evento de click que soma estes dois valores exibidos no console
 
 
 
