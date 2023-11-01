@@ -125,7 +125,7 @@ const ExemploComponent = () => {
   )
 }
 
-export default ManaExemploComponent
+export default ExemploComponent
 ```
 
 
