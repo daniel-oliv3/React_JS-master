@@ -37,3 +37,32 @@ npm run dev
 
 - Exemplo:
     - reactjs_31
+
+##
+### Tarefa 3 - Desafio sobre criação de apps em React
+##
+
+- Neste desafio vamos reforçar nossos skills em criação de um app React
+
+**Desafio 3**
+
+1 - Criar um projeto para a nova seção
+2 - Limpe o arquivo do componente principal
+3 - E por fim coloque o titulo de Seção 3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
