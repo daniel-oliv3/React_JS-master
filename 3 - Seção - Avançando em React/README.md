@@ -101,10 +101,36 @@ npm run dev
 
 
 
+### 35 - useState hook
+
+**useState**
+
+- O hook de `useState`, é um dos mais utilizados
+- Utilizamos para **gerenciar o estado de algum dado**, variáveis não funcionam corretamente, o componente não re-renderiza
+- Para guardar o dado definimos o nome da variável e para alterar vamos utilizar `setNome`, onde nome é o nome do nosso dado
 
 
+- DICA
+
+**Snippets**
+
+- rafce
+
+```jsx
+import React from 'react'
+
+const ExemploComponent = () => {
+  return (
+    <div>Exemplo Componente</div>
+  )
+}
+
+export default ManaExemploComponent
+```
 
 
+- Exemplo:
+    - reactjs_35
 
 
 
