@@ -51,13 +51,20 @@ npm run dev
 3 - E por fim coloque o titulo de Seção 3 
 
 
+- Tarefa:
+    - tarefa_01
 
 
+### 32 - Imagens públicas no React
 
+**Imagens no React**
 
+- As **Imagens públicas** do nosso projeto podem ficar na pasta `public`
+- De lá elas podem ser chamadas pelas tags `img` diretamente pelo `/nome.jpg`
+- Pois **a pasta public fica linkada com o src** das imagens
 
-
-
+- Exemplo:
+    - reactjs_32
 
 
 
