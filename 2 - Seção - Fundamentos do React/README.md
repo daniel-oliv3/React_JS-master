@@ -11,7 +11,6 @@
 
 
 
-
 ### 20 - Introdução do seção
 
 **Vite JS**
