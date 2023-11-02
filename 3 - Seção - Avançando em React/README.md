@@ -161,6 +161,101 @@ export default ExemploComponent
 
 
 
+### 37 - A propriedade key
+
+**A propriedade key**
+
+- Iterar listas sem a **propriedade key** nos gera um warning, podemos verificar no console
+- **O react precisa de uma chave única** em cada um dos itens iterados
+- Isso serve para **ajuda-lo na renderização do componente**
+- Geralmente teremos um **array de objetos** e podemos colocar `key` como uma alguma chave única, como **id** de algum dado
+- Em **último caso** devemos utilizar o index do método map
+
+
+**Key**
+
+- Key, index
+
+```jsx
+{/*Exemplo, chave única key*/}
+<div>
+    <ul>
+        {list.map((item, index) => (
+            <li key={index}>{item}</li>
+        ))}
+    </ul>
+</div>
+```
+
+- Exemplo:
+    - reactjs_37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
