@@ -137,9 +137,27 @@ export default ExemploComponent
 
 
 
+### 36 - Renderização de listas
+
+**Renderização de listas**
+
+- Uma outra ação bem comum é **renderizar listas** de dados no template
+- Fazemos isso com os dados com tipo **array**
+- Utilizando o **método map** pra nos auxiliar
+- Além dos dados podemos **inserir JSX** em cada iteração
+
+**Key**
+
+- No
 
 
+**DICA**:
 
+- ArrowFunction com {}
+- Objetos com ()
+
+- Exemplo:
+    - reactjs_36
 
 
 
