@@ -150,6 +150,17 @@ export default ExemploComponent
 
 - No
 
+```jsx
+{/*Exemplo, sem chave única key*/}
+<div>
+    <ul>
+        {list.map((item) => (
+            <li>{item}</li>
+        ))}
+    </ul>
+</div>
+```
+
 
 **DICA**:
 
@@ -177,7 +188,7 @@ export default ExemploComponent
 - Key, index
 
 ```jsx
-{/*Exemplo, chave única key*/}
+{/*Exemplo, com chave única key*/}
 <div>
     <ul>
         {list.map((item, index) => (
