@@ -232,9 +232,14 @@ export default ExemploComponent
 
 
 
+### 40 - If e else no JSX
 
+- Podemos também realizar um `if`/`else` no **JSX**
+- Aqui devemos utilizar o `if` **ternário**
+- Onde temos a sintaxe: condição ? bloco1 : bloco2
 
-
+- Exemplo:
+    - reactjs_40
 
 
 
