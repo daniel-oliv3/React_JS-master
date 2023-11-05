@@ -269,7 +269,24 @@ export default ExemploComponent
 - Agora **não precisamos mais utilizar** props.algumaCoisa
 
 
+- Exemplo:
+    - reactjs_42
 
+
+
+
+
+
+### 43 - Reaproveitamento de componentes
+
+**Reaproveitamento de componentes**
+
+- Com **props** a **reutilização de componentes** começa a fazer muito sentido
+- Se temos os dados de 1000 carros por exemplo, podemos **reaproveitar o nosso CarDetails** 1000 vezes
+- Isso torna nosso código mais pradonizado, facilitando a manuntenção
+
+- Exemplo:
+    - reactjs_43
 
 
 
