@@ -258,9 +258,15 @@ export default ExemploComponent
     - reactjs_41
 
 
+### 42 - Destructuring em props
 
+**Desestruturando props**
 
-
+- É super comum passar **mais de uma prop em um componente**
+- Para facilitar isso o Recat nos permite **desestruturar as propriedades que chegam**, com o recurso de destructuring
+- Se tmos duas props: name e age
+- Podemos fazer assim function MyComponent(**{name, age}**)
+- Agora **não precisamos mais utilizar** props.algumaCoisa
 
 
 
