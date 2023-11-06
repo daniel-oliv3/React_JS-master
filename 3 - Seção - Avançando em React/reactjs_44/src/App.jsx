@@ -17,9 +17,9 @@ function App() {
     <>
       
       {/*Loop em array de objetos, com key*/}
-      {/* {cars.map((car, index) => (
+      {/* {cars.map((car) => (
         <CarDetails 
-          key={index}
+          key={car.id}
           brand={car.brand}
           color={car.color}
           km={car.km}
