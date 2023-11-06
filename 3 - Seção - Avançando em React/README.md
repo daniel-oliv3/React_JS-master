@@ -325,10 +325,16 @@ export default ExemploComponent
 
 
 
+### 46 - A prop children
+
+- **Children prop** é um recurso utilizado para quando um componente precisa ter JSX dentro dele
+- Porém **este JSX vem do componente pai**
+- Então o componente age como um **container**, abraçando estes elementos
+- E children é considerado uma **prop do componente**
 
 
-
-
+- Exemplo:
+    - reactjs_46
 
 
 
