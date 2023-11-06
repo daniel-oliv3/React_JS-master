@@ -291,8 +291,17 @@ export default ExemploComponent
 
 
 
+### 44 - Renderização de lista em componente
+
+** Renderização com loop**
+
+- Os arrays de dados podem ter **muitos itens** também
+- Então o correto é utilizar uma **estrutura loop** `map()` para a ua exibição
+- E com isso conseguimos conciliar os **três conceitos** renderização de listas, reaproveitamento de componentes e props 
 
 
+- Exemplo:
+    - reactjs_44
 
 
 
