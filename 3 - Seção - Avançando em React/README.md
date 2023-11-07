@@ -350,3 +350,56 @@ export default ExemploComponent
 
 - Exemplo:
     - reactjs_47
+
+
+
+
+### 48 - State lift
+
+**Elevação de state**
+
+- Elevação de state ou **State lift** é quando um valor é elevado do componente filho para o componente pai
+- Geralmente temos **um componente que usa o state e outro que o altera**
+- Então precisamos passar a alteração para o componente pai, e este passa para o componente que usa o state
+
+- Exemplo:
+    - reactjs_48
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
