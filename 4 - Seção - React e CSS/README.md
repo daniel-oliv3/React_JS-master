@@ -42,10 +42,6 @@ npm run dev
 
 
 
-
-
-
-
 ### 51 - CSS Global
 
 **CSS Global**
@@ -77,3 +73,14 @@ npm run dev
 
 
 
+### 53 - CSS inline
+
+**Inline style**
+
+- O inline style do React é **igual o do CSS**
+- Por meio do **atributo style** conseguimos aplicar regras diretamente em um elemento
+- **Devemos optar por outras maneiras de CSS**, o inline pode dificultar a manunteção ou deixar o código imprevisével em algumas situações
+
+
+- Exemplo:
+    - reactjs_52
