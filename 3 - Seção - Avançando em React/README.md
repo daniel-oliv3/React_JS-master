@@ -366,9 +366,18 @@ export default ExemploComponent
     - reactjs_48
 
 
+### Tarefa: Desafio sobre componentes e recursos do React
+
+**Desafio 4**
+
+- 1* Crie um array de objetos composto de pessoas, com as propriedades de nome, idade e profissão (array com pelo menos 3 itens)
+- 2* Os dados devem ser exibidos em componentes UserDatail, que você deve criar, todas as informações devem ser exibidas
+- 3* Faça uma renderização condicional que exibe se o usuario pode tirar carteira de habilitação ou não, imprima isso também no componente
+- 4* - A informação pode ser exibiba num parágrafo (checar se idade >= 18)
 
 
-
+= Exemplo:
+    - tarefa_02
 
 
 
