@@ -63,11 +63,17 @@ npm run dev
 
 
 
+### 52 - CSS de componentes
 
+**CSS de componentes**
 
+- O **CSS de componentes** é utilizado para um componente em especifico
+- Geralmente **é criado um arquivo com o mesmo nome do componente** e este é **importdado no componente**
+- Note que este método **não é scoped**, ou seja, o CSS vaza para outros componentes se houver uma regra em colisão
+- O React ja cria um exemplo desta técnica com o App.css/js
 
-
-
+- Exemplo:
+    - reactjs_52
 
 
 
