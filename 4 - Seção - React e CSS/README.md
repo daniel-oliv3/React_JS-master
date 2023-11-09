@@ -1,5 +1,5 @@
 ##
-### Seção 4 - CSS no React
+### Seção 4 - React e CSS
 ##
 
 
@@ -46,10 +46,17 @@ npm run dev
 
 
 
+### 51 - CSS Global
+
+**CSS Global**
+
+- O **CSS Global** é utilizado para estilizar diversos elementos em comum ou fazer um reset no CSS
+- Utilizamos o arquivo `index.css` para isso
+- Ele está na pasta `src`
 
 
-
-
+- Exemplo:
+    - reactjs_51
 
 
 
