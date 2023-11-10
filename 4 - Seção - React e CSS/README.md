@@ -83,4 +83,25 @@ npm run dev
 
 
 - Exemplo:
-    - reactjs_52
+    - reactjs_53
+
+
+
+### 54 - CSS inline dinâmico
+
+**Inline style Dinâmico**
+
+- O **O CSS dinâmico inline** aplica estilo basedo em uma condicional
+- Vamos inserir no atributo um `if ternário`
+- Dependendo da condição podemos mudar que regra de estilo um elemento recebe
+
+- Exemplo:
+    - reactjs_54
+
+
+
+
+
+
+
+
