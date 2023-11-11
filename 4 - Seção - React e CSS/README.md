@@ -142,14 +142,17 @@ npm run dev
 - 1* - Crie um novo projeto chamado challengecss
 - 2* - No CSS global zere a margin, padding e coloque uma fonte que você goste
 - 3* - Crie um componente que exiba detalhes de carros, este componente deve ser estilizado com scoped
-- 1* - Exib pelo menos 3 carros
-- 1* - Coloque um titulo em aapp.js praa o seu projeto, estilize com o app.css
+- 4* - Exib pelo menos 3 carros
+- 5* - Coloque um titulo em aapp.js praa o seu projeto, estilize com o app.css
 
+- tarefa:
+    - challengecss
+    - challengecss_01
 
+### 57 - Conclusão da seção
 
-
-
-
+- Exemplo:
+    - reactjs_57
 
 
 
