@@ -109,10 +109,16 @@ npm run dev
 
 
 
+### 64 - Controlled inputs
 
+**Controlled inputs**
 
+- **Controlled inputs** é um recurso que nos permite mais flexibilidade nos forms de React
+- Precisamos apenas **igualar o valor aao state**
+- Um uso mais comum: formulários de edição, que os dados vem do back-end, conseguiremos preencher o input mais facilmente
 
-
+- Exemplo:
+    - react-form_64
 
 
 
