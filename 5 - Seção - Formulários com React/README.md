@@ -83,8 +83,16 @@ npm run dev
     - react-form_61
 
 
+### 62 - Alteração de state inline
 
+**Simplificando a manipulação**
 
+- Quando temos vários inputs podemos **realizar a manipulação de forma mais simples**
+- Basicamente criamos uma **função inline no onChange**
+- Ela vai **alterar o valor do state** com método set, da mesma forma que a função isolada
+
+- Exemplo:
+    - react-form_62
 
 
 
