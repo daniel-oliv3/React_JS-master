@@ -40,5 +40,14 @@ npm run dev
 
 
 
+### 59 - Criando formulários
+
+**Formulários e React**
+
+- No React vamos também utilizar a **tag** `form` para formulários
+- As labels dos inputs contém o atributo `htmlFor`, que deve ter o valor name do input
+- **Não utilizamos action**, pois o processamento será feito de forma assíncrona
 
 
+- Exemplo:
+    - react-form_59
