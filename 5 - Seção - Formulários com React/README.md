@@ -96,9 +96,16 @@ npm run dev
 
 
 
+### 63 - Envio de form
 
+**Envio de formulário**
 
+- Para enviar um form vamos utilizar o evento `onSubmit`
+- **Ele chamará uma função**, e nesta devemos lembrar de parar a submissão com o `preventDefault`
+- Nesta etapa podemos realizar validações, envio de from para um servidor reset de form e outras ações
 
+- Exemplo:
+    - react-form_63
 
 
 
