@@ -114,3 +114,110 @@ npm run dev
 
 - Exemplo:
     - reactjs_55
+
+
+
+### 56 - CSS Modules
+
+**CSS Modules**
+
+- O **CSS Modules** é um recurso de CSS **scoped**
+- Ou seja, ele vai ser **exclusivo do componente**
+- O nome do arquivo é `Componente.module.css`
+- Precisamos importá-lo tmbém no componente
+
+
+- Exemplo:
+    - reactjs_56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
