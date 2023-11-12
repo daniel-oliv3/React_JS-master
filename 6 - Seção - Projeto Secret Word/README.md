@@ -40,6 +40,9 @@ npm run dev
 
 
 
+### 70 - Criando o projeto
 
 
+- Exemplo:
+    - secret-word_70
 
