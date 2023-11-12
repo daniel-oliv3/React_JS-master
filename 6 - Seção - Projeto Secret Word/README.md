@@ -46,3 +46,11 @@ npm run dev
 - Exemplo:
     - secret-word_70
 
+
+
+
+### 71 - Ajustes gerais
+
+
+- Exemplo:
+    - secret-word_71
