@@ -54,3 +54,9 @@ npm run dev
 
 - Exemplo:
     - secret-word_71
+
+
+### 72 - Finalizando tela inicial
+
+- Exemplo:
+    - secret-word_72
