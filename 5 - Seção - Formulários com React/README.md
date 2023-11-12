@@ -142,7 +142,7 @@ npm run dev
 
 
 
-### - 66 - Textarea no React
+### 66 - Textarea no React
 
 **Input de TextArea**
 
@@ -154,9 +154,17 @@ npm run dev
     - react-form_66
 
 
+### 67 - Select no React
+
+**Input de Select**
+
+- O select também será **muito semelhante** aaos outros inputs
+- Quaando temos a alteração de um valor o **evento onChange** pode captar isso
+- O value também pode atribuir qual **option** estará selecionado
 
 
-
+- Exemplo:
+    - react-form_67
 
 
 
