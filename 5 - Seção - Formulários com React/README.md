@@ -114,7 +114,7 @@ npm run dev
 **Controlled inputs**
 
 - **Controlled inputs** é um recurso que nos permite mais flexibilidade nos forms de React
-- Precisamos apenas **igualar o valor aao state**
+- Precisamos apenas **igualar o valor ao state**
 - Um uso mais comum: formulários de edição, que os dados vem do back-end, conseguiremos preencher o input mais facilmente
 
 - Exemplo:
@@ -142,9 +142,16 @@ npm run dev
 
 
 
+### - 66 - Textarea no React
 
+**Input de TextArea**
 
+- O textaarea **pode ser considerado um input de texto** normal
+- Utilizaremos o **value** para alterar o state inicial
+- E o evento **onChange** para modificar o valor do state
 
+- Exemplo:
+    - react-form_66
 
 
 
