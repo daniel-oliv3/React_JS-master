@@ -76,3 +76,23 @@ npm run dev
 - Exemplo:
     - secret-word_74
 
+
+### 75 - Escolhendo palavra e categoria de forma aleatória
+
+- Exemplo:
+    - secret-word_75
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
