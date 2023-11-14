@@ -67,3 +67,12 @@ npm run dev
 
 - Exemplo:
     - secret-word_73
+
+
+
+
+### 74 - Alternando os estágios do jogo
+
+- Exemplo:
+    - secret-word_74
+
