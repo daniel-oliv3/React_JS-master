@@ -84,6 +84,10 @@ npm run dev
 
 
 
+### 76 - Estruturando componente do jogo
+
+- Exemplo:
+    - secret-word_76
 
 
 
