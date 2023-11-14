@@ -60,3 +60,10 @@ npm run dev
 
 - Exemplo:
     - secret-word_72
+
+
+
+### 73 - Criando componentes do projeto
+
+- Exemplo:
+    - secret-word_73
