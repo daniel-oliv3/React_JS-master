@@ -90,7 +90,10 @@ npm run dev
     - secret-word_76
 
 
+### 77 - CSS da tela do jogo
 
+- Exemplo:
+    - secret-word_77
 
 
 
