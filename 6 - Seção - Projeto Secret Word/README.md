@@ -96,7 +96,10 @@ npm run dev
     - secret-word_77
 
 
+### 78 - Consumindo states do jogo
 
+- Exemplo:
+    - secret-word_78
 
 
 
