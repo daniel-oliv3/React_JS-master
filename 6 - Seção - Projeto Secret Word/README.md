@@ -102,6 +102,10 @@ npm run dev
     - secret-word_78
 
 
+### 79 Evento de inserção de letra
+
+- Exemplo:
+    - secret-word_79
 
 
 
