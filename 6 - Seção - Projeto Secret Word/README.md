@@ -115,5 +115,8 @@ npm run dev
 
 
 
+### 81 - Lógica para fim de jogo
 
+- Exemplo:
+    - secret-word_81
 
