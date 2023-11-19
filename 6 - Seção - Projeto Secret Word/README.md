@@ -124,3 +124,17 @@ npm run dev
 
 - Exemplo:
     - secret-word_82
+
+
+### 83 - Condição de vitória
+
+- Exemplo:
+    - secret-word_83
+
+
+
+
+
+
+
+
