@@ -120,3 +120,7 @@ npm run dev
 - Exemplo:
     - secret-word_81
 
+### 82 - Finalizando tela de fim de jogo
+
+- Exemplo:
+    - secret-word_82
