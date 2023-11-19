@@ -40,3 +40,61 @@ npm run dev
 
 
 
+### 86 - Criando projeto com JSON server
+
+**JSON server**
+
+- O **JSON server** é um pacote npm
+- Ele **simula uma API**, e isso nos possibilita fazer requisições HTTP
+- Vamos aprender a **integrar este recurso com o React**
+- Podemos entender isso como uma etapa de preparação para APIs reais
+- Ou seja, atingir o mesmo resultado mas sem precisar de uma estrutura no back-end
+
+- Json Server Package
+```
+npm i json-server
+```
+
+- alterando o script no arquivo `package.json`
+```json
+"scripts": {
+    "server": "json-server --watch data/db.json"
+  },
+```
+
+- Inicializando o json-server
+```
+npm run server
+```
+
+- Resources
+    - http://localhost:3000/products
+
+- Home
+    - http://localhost:3000
+
+- URLs
+     - http://localhost:3000/products/1
+     - http://localhost:3000/products/2
+     - http://localhost:3000/products/3
+
+
+- Exemplo:
+    - react-req-http_86
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
