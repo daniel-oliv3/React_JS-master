@@ -136,8 +136,3 @@ npm run dev
 
 - Exemplo:
     - secret-word_84
-
-
-
-
-
