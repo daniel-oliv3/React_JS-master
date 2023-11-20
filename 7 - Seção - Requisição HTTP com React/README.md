@@ -150,8 +150,18 @@ npm run server
     - react-req-http_90
 
 
+### 91 - Custom hook para resgate de dados
 
+**Custom hook para fetch**
 
+- É normal dividir funções que podem ser reaproveitaadas em hooks
+- Esta técnica é chamada de **custom hook**, e vamos criar uma para o resgate de dados
+- Os hooks geralmente ficam na **pasta hooks**
+- Devemos utilizar o padrão *useName*
+- Basicamente criamos umaa função e exportamos ela
+
+- Exemplo:
+    - react-req-http_91
 
 
 
