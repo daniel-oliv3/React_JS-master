@@ -93,15 +93,31 @@ npm run server
 - O useEffect estará presente sempre nas **requisições assíncronas**!
 
 
-- npm run dev
-- npm run server
+- Rodar o projeto react
+```
+npm run dev
+```
 
+- Rodar o projeto json-server
+```
+npm run server
+```
 - Exemplo:
     - react-req-http_87
 
 
 
+### 88 - Resgatando dados da API
 
+**Resgatando dados com React**
+
+- Para trazer os dados vamos ter que utilizaar vários recursos
+- Primeiramente ter um local para salvá-los `useState`
+- Renderizar a chamada a API apenas uma vez `useEffect`
+- Um meio de fazer a requisação assíncrona `Fetch API`
+
+- Exemplo:
+    - react-req-http_88
 
 
 
