@@ -207,11 +207,27 @@ npm run server
 - Exemplo:
     - react-req-http_94
 
+### 95 - Tratando erros
+
+**Tratando erros**
+
+- Podemos tratar os erros das requisições por meio de um **try catch**
+- Além de pegar os dados do erro, também podemos **alterar um state para imprimir um elemento se algo der errado**
+- Desta maneira conseguimos **prever vários cenários** (dados resgatados, carregamento e erro)
+
+- Exemplo:
+    - react-req-http_95
 
 
+##
+### Tarefa 6: Desafio sobre requisições HTTP
+##
 
 
+- Neste desafio vamos trabalhar com requisições HTTP, para excluir um registro do banco via React, mandando a requisição para a API
 
+- Exemplo:
+    - tarefa_01
 
 
 
