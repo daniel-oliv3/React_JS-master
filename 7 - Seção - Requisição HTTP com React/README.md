@@ -168,9 +168,17 @@ npm run server
 
 
 
+### 92 - Refatorando o POST
 
+**Refatorando o POST**
 
+- Podemos **utilizaar o mesmo hook** para incluir uma etapa de POST
+- **Vamos criar um novo useEffect** que mapeia umaa outra mudança de estado
+- Após ela ocorrer executamos a adição de produto
+- **OBS**: nem sempre reutilizar um hook é a melhor estratégia
 
+- Exemplo:
+    - react-req-http_92
 
 
 
