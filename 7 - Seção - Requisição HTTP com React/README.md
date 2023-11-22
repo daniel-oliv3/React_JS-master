@@ -173,7 +173,7 @@ npm run server
 **Refatorando o POST**
 
 - Podemos **utilizaar o mesmo hook** para incluir uma etapa de POST
-- **Vamos criar um novo useEffect** que mapeia umaa outra mudança de estado
+- **Vamos criar um novo useEffect** que mapeia uma outra mudança de estado
 - Após ela ocorrer executamos a adição de produto
 - **OBS**: nem sempre reutilizar um hook é a melhor estratégia
 
@@ -182,18 +182,30 @@ npm run server
 
 
 
+### 93 - Estado de Loading
+
+**Estado de Loading**
+
+- Quando fizemos requisições para APIs **é normal que haja um intervalo de loading entre a requisiçãao e o recebimento** da resposta
+- Podesmos fazer isso no nosso **hook** também
+- **Identificar quando começa e termina** este estado
+
+
+- Exemplo:
+    - react-req-http_93
 
 
 
 
+### 94 - Loading no POST
 
+**Estado de loading no POST**
 
+- Podemos bloquer aações indevidas em outras requests também, **como no POST**
+- Uma ação interessante é **remover a ação de adicionar outro item** enquanto o request ainda não finalizou
 
-
-
-
-
-
+- Exemplo:
+    - react-req-http_94
 
 
 
