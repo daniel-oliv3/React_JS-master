@@ -39,8 +39,18 @@ npm run dev
     - react-router_97
 
 
+### 98 - O que é React Router?
 
+**O que é React Router ?**
 
+- **React Router** é um dos paacotes mais utilizados para criar uma estrutura de rotas em aplicações de React
+- Ou seja, permite que nossas **SPAs tenham múltiplas páginas**
+- Precisamos **instalar** no nosso projeto
+- A **configuração e utilização** é simples
+- Também temos outras funções como: **Redirect, Nested Routes, Not Found Routes** e outros
+
+- Exemplo:
+    - react-router_98
 
 
 
