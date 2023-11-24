@@ -52,10 +52,15 @@ npm run dev
 - Exemplo:
     - react-router_98
 
+##
+###  Tarefa: Desafio sobre projetos em React com dependências
+##
 
 
+- Neste desafio vamos criar um novo projeto, e instalar algumas dependências do projeto.
 
-
+- Exemplo:
+    - tarefa_01
 
 
 
