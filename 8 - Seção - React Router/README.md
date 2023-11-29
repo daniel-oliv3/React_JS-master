@@ -53,7 +53,7 @@ npm run dev
     - react-router_98
 
 ##
-###  Tarefa: 7 - Desafio sobre projetos em React com dependências
+###  Tarefa: Desafio sobre projetos em React com dependências
 ##
 
 
@@ -64,18 +64,8 @@ npm run dev
 
 
 
-### 99 - Configurando o React Router
-
-**Configurando o React Router**
-
-- Para configurar o React Rouuter vamos ter que importar três elementos de **react-router-dom**
-- **BrowserRouter**: Define onde a área do nosso app que vai trocar as páginas
-- **Routes**: Define aas rotas
-- **Route**: Um elemento deste para cada rota, configurar com path e componente da rota 
 
 
-- Exemplo:
-    - react-router_99
 
 
 
