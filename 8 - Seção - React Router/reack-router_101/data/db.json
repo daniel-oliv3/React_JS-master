@@ -59,31 +59,6 @@
       "name": "Teclado Gamer Dazz",
       "price": "200",
       "id": 12
-    },
-    {
-      "name": "MONITOR: MSI Optix AG32c",
-      "price": "4000",
-      "id": 13
-    },
-    {
-      "name": "PLACA MÃE: Mancer H610M-DARD",
-      "price": "2800",
-      "id": 14
-    },
-    {
-      "name": "SPEAKER: Redragon Orphues GS550",
-      "price": "200",
-      "id": 15
-    },
-    {
-      "name": "MOUSE PAD: Redragon Orion P009",
-      "price": "280",
-      "id": 16
-    },
-    {
-      "name": "MOUSE: Redragon Legend Chroma M990-RGB, 24000 Dpi com 24 botões",
-      "price": "250",
-      "id": 17
     }
   ]
 }
