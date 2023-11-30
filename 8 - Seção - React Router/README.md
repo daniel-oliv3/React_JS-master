@@ -108,9 +108,48 @@ npm install react-router-dom
 
 
 
+### 101 - Carregando dados
 
+**Carregando dados**
 
+- Vamos exercitar novamente o carregamento de dados com o nosso hook `usefetch`
+- Depois podemos utilizaá-los para o **carregmento de dados individuais**
+- Utilizaremos o hook igual ao da última seção e vamos imprimir os produtos na Home daa mesma forma
 
+- Json Server Package
+```
+npm i json-server
+```
+
+- alterando o script no arquivo package.json
+
+```json
+"scripts": {
+    "server": "json-server --watch data/db.json"
+},
+```
+- Inicializando o json-server
+```
+npm run server
+```
+
+- Roda o projeto com vite
+```
+npm run dev
+```
+
+- Resources
+    - http://localhost:3000/products
+
+- Home
+    - http://localhost:3000
+
+- URLs:
+    - http://localhost:5173/
+    - http://localhost:5173/about
+
+- Exemplo:
+    - react-router_101
 
 
 
