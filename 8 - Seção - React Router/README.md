@@ -154,6 +154,64 @@ npm run dev
 
 
 
+### 102 - Rotas dinâmicas
+
+**Rotas dinâmicas**
+
+Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.jsx`
+- Que deve ter o padão de: `/products/:id`
+- Onde `:id` é o dado dinâmico, ou seja, podemos ter qualquer valor
+- Na página podemos utilizar o hook `useParams` para resgatar esta informação
+
+- Exemplo:
+    - react-router_102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
