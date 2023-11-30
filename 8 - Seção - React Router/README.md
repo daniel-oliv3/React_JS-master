@@ -191,18 +191,34 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 - Neste caso vmos precisaar criar um componente que corresponda com o padão indicado e também a URL em App.js
 - Na nested route **teremos o acesso ao parâmetro da URL** também
 
-- URLs
+-   URLs
     - http://localhost:5173/products/1/info
-    - http://localhost:5173/products/5/info
+    - http://localhost:5173/products/12/info
 
 - Exemplo:
     - react-router_104
 
 
 
+### 105 - Página 404
 
+**No match route (404)**
 
+- Podemos criar uma **Página 404** facilmente com React Router
+- Basta **criarmos o componente** da página
+- E no rquivo `App.jsx` definir um **path como** `*`
+- Desta maneir, qualquer rota que não exista cairá neste componente
 
+-   URLs
+    - http://localhost:5173/products/1/info
+    - http://localhost:5173/products/12/info
+
+- 404
+    - http://localhost:5173/testealgumacoisa
+    - http://localhost:5173/products/1/olamundo
+
+- Exemplo:
+    - react-router_105
 
 
 
