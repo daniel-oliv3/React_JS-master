@@ -92,11 +92,17 @@ npm install react-router-dom
 
 
 
+### 100 - Navegação entre páginas
+
+**Adicionando links**
+
+- Para criar links para páginas vaamos precisar utilizar o `Link` do React Router
+- No Link configuramos o prâmetro **to**, que recebe a **URL/path** que será redirecionado quem clicar no link
+- Vamos criar um componente de Navbar para isso
 
 
-
-
-
+- Exemplo:
+    - react-router_100
 
 
 
