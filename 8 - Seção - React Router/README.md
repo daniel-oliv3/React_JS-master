@@ -183,9 +183,20 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
     - react-router_103
 
 
+### 104 - Nested routes
 
+**Nested route**
 
+- As Nested routes indicam **URLs mais complexas**, como: `/products/:id/something`
+- Neste caso vmos precisaar criar um componente que corresponda com o padão indicado e também a URL em App.js
+- Na nested route **teremos o acesso ao parâmetro da URL** também
 
+- URLs
+    - http://localhost:5173/products/1/info
+    - http://localhost:5173/products/5/info
+
+- Exemplo:
+    - react-router_104
 
 
 
