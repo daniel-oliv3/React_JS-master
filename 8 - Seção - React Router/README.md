@@ -141,12 +141,12 @@ npm run dev
 - Resources
     - http://localhost:3000/products
 
-- Home
-    - http://localhost:3000
 
 - URLs:
     - http://localhost:5173/
     - http://localhost:5173/about
+    - http://localhost:5173/products/1
+    - http://localhost:5173/products/2
 
 - Exemplo:
     - react-router_101
@@ -169,10 +169,18 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 
 
 
+### 103 - Carregamento dinâmico de dados
+
+**Carregando dado individul**
+
+- Graças ao passo dado no projeto passado o **carregamento individual** de um produto será fácil
+- Vamos utilizar o id recebido para **formar a nova URL**
+- E por fim podemos utilizar o hook `useFetch` para trazer o item
+- Por fim faremos a **valisação e impressão** do mesmo no JSX
 
 
-
-
+- Exemplo:
+    - react-router_103
 
 
 
