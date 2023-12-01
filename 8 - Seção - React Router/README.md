@@ -223,9 +223,16 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 
 
 
+### 106 - Link ativo
 
+**Link ativo**
 
+- Para ter fácil aacesso a uma modificação para os links attivos vamos trocar o `Link` pelo `NavLink`
+- Neste elemento temos acesso a um valor chaamado `isActive`
+- Ou seja, podemos **ativar uma classe** se a rota atuaal for aa que está
 
+- Exemplo:
+    - react-router_106
 
 
 
