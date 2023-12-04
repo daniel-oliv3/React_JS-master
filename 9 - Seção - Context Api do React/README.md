@@ -40,3 +40,33 @@ npm run dev
     - context-api_110
 
 
+
+### 111 - O que é Context API?
+
+**O que é Context API?**
+
+- Um recurso que facilita o **compartilhamento de um estado entre componentes**
+- Ou seja, quando precisamos de **dados** `globais`, provavelmente precisamos utilizar o Context
+- **O Context precisa encapsular os componentes** que receberão seus valores, geralmente colocamos no App.jsx ou index.jsx
+- Os contextos geralmente dicam na pasta `context`
+
+- Exemplo:
+    - context-api_111
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
