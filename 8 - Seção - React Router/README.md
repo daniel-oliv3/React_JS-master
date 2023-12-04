@@ -271,15 +271,3 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 
 - Exemplo:
     - react-router_109
-
-
-
-
-
-
-
-
-
-
-
-
