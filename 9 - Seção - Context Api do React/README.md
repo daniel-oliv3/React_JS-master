@@ -74,9 +74,19 @@ npm run dev
     - context-api_112
 
 
+### 113 - Criando Provider
 
+**Criando Provider**
 
+- O provider vai **delimitar onde o contexto é utilizado**
+- Vamos criar uma espécie de componente com a **prop children**
+- E este Provider deve **encapsular os demais componentes** em que precisamos consultar ou alterar o valor
+- Geralmente ele fica em `App.jsx` ou em `index.jsx`
+- Agora poderemos **compartilhar o valor do contexto** em todo os componentes
 
+- Exemplo:
+    - context-api_113
+    
 
 
 
