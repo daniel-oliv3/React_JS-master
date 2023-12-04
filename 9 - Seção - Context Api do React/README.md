@@ -98,3 +98,51 @@ npm run dev
 
 - Exemplo:
     - context-api_114
+
+
+### 115 - Refatorando contexto para hook
+
+**Refatorando contexto para hook**
+
+- Podemos **criar um hook para utilizar o contexto, isso nos dá algumas vantagens
+- **Não precisamos importar o useContext em todo os lugares** que vamos usr o contexto, só o hook
+- Temos um espaço para fazer uma **validação do contexto**
+
+- Exemplo:
+    - context-api_115
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
