@@ -236,8 +236,16 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 
 
 
+### 107 - Search Params
 
+**Search Params**
 
+- **Search Params** é um recurso que permite obter o que vem na URL em formaa de parâmetro, ex: produtos?`q=camisa`
+- Utilizamos o hook `useSeachParams` par obtê-los
+- Com este recurso fica simples fazer um **funcionalidade de busca** no sistema
+
+- Exemplo:
+    - react-router_107
 
 
 
