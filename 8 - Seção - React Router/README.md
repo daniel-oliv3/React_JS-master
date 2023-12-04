@@ -96,7 +96,7 @@ npm install react-router-dom
 
 **Adicionando links**
 
-- Para criar links para páginas vaamos precisar utilizar o `Link` do React Router
+- Para criar links para páginas vamos precisar utilizar o `Link` do React Router
 - No Link configuramos o prâmetro **to**, que recebe a **URL/path** que será redirecionado quem clicar no link
 - Vamos criar um componente de Navbar para isso
 
@@ -113,7 +113,7 @@ npm install react-router-dom
 **Carregando dados**
 
 - Vamos exercitar novamente o carregamento de dados com o nosso hook `usefetch`
-- Depois podemos utilizaá-los para o **carregmento de dados individuais**
+- Depois podemos utilizá-los para o **carregmento de dados individuais**
 - Utilizaremos o hook igual ao da última seção e vamos imprimir os produtos na Home da mesma forma
 
 - Json Server Package
@@ -256,6 +256,11 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 - **Exemplo** uma página antiga do sistema responde agora a uma nova URL
 - Para isso vamos **criar a rota com Route** normalmente
 - Mas em element vamos utilizar o **componente Navigate** com um **to** que vai para a rota correta
+
+- URL (antigo)
+- Sera redirecionado para about
+
+- http://localhost:5173/company
 
 - Exemplo:
     - react-router_108
