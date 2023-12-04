@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": 4,
+      "name": "Vestido Azul",
+      "price": 89.9
+    },
+    {
+      "id": 5,
+      "name": "Shape Zero",
+      "price": 66.6
+    },
+    {
+      "name": "Rolamento Bones",
+      "price": "200",
+      "id": 6
+    },
+    {
+      "name": "Shape Santa-Cruz",
+      "price": "180",
+      "id": 7
+    },
+    {
+      "name": "Teclado Gamer Redragon",
+      "price": "500",
+      "id": 8
+    },
+    {
+      "name": "Cadeira Gamer Dazz",
+      "price": "800",
+      "id": 9
+    },
+    {
+      "name": "Caneca Dev",
+      "price": "90",
+      "id": 10
+    },
+    {
+      "name": "Iphone 11",
+      "price": "5000",
+      "id": 11
+    },
+    {
+      "name": "Teclado Gamer Dazz",
+      "price": "200",
+      "id": 12
+    }
+  ]
+}
