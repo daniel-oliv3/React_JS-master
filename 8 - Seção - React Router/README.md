@@ -72,7 +72,7 @@ npm install react-router-dom
 
 **Configurando o React Router**
 
-- Para configurar o React Rouuter vamos ter que importar três elementos de **react-router-dom**
+- Para configurar o React Router vamos ter que importar três elementos de **react-router-dom**
 - **BrowserRouter**: Define onde a área do nosso app que vai trocar as páginas
 - **Routes**: Define aas rotas
 - **Route**: Um elemento deste para cada rota, configurar com path e componente da rota 
@@ -114,7 +114,7 @@ npm install react-router-dom
 
 - Vamos exercitar novamente o carregamento de dados com o nosso hook `usefetch`
 - Depois podemos utilizaá-los para o **carregmento de dados individuais**
-- Utilizaremos o hook igual ao da última seção e vamos imprimir os produtos na Home daa mesma forma
+- Utilizaremos o hook igual ao da última seção e vamos imprimir os produtos na Home da mesma forma
 
 - Json Server Package
 ```
@@ -176,7 +176,7 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 - Graças ao passo dado no projeto passado o **carregamento individual** de um produto será fácil
 - Vamos utilizar o id recebido para **formar a nova URL**
 - E por fim podemos utilizar o hook `useFetch` para trazer o item
-- Por fim faremos a **valisação e impressão** do mesmo no JSX
+- Por fim faremos a **validação e impressão** do mesmo no JSX
 
 
 - Exemplo:
@@ -227,9 +227,9 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 
 **Link ativo**
 
-- Para ter fácil aacesso a uma modificação para os links attivos vamos trocar o `Link` pelo `NavLink`
-- Neste elemento temos acesso a um valor chaamado `isActive`
-- Ou seja, podemos **ativar uma classe** se a rota atuaal for aa que está
+- Para ter fácil acesso a uma modificação para os links ativos vamos trocar o `Link` pelo `NavLink`
+- Neste elemento temos acesso a um valor chamado `isActive`
+- Ou seja, podemos **ativar uma classe** se a rota atual for a que está
 
 - Exemplo:
     - react-router_106
@@ -240,7 +240,7 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
 
 **Search Params**
 
-- **Search Params** é um recurso que permite obter o que vem na URL em formaa de parâmetro, ex: produtos?`q=camisa`
+- **Search Params** é um recurso que permite obter o que vem na URL em forma de parâmetro, ex: produtos?`q=camisa`
 - Utilizamos o hook `useSeachParams` par obtê-los
 - Com este recurso fica simples fazer um **funcionalidade de busca** no sistema
 
@@ -248,6 +248,17 @@ Para criar uma rota dinâmica vamos precisar definir uma **nova Route** em `App.
     - react-router_107
 
 
+### 108 - Redirecionamento de URL
+
+**Redirect**
+
+- Podemos precisar de um **redirecionamento de páginas** eventualmente
+- **Exemplo** uma página antiga do sistema responde agora a uma nova URL
+- Para isso vamos **criar a rota com Route** normalmente
+- Mas em element vamos utilizar o **componente Navigate** com um **to** que vai para a rota correta
+
+- Exemplo:
+    - react-router_108
 
 
 
