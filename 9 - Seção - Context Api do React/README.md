@@ -54,12 +54,24 @@ npm run dev
     - context-api_111
 
 
+### Tarefa: Criação de projeto e inicialização de dependências
+
+- Um desafio para treinar a inicialização de um novo projeto, com dependências instaladas e rotas estabelecidas
+
+- Tarefa:
+    - tarefa_01
 
 
+### 112 - Criando contexto
+
+- Primeiramente vamos ter que **criar o Context**
+- O arquivo deve sempre ter a **primeira letra maiúscula** no nome, e geralmente termina em Context: `SomeContext.jsx`
+- A convenção é deixar na **pasta context** em `src`
+- Onde vamos utilizar o valor do contexto, **o arquivo precisa ser importado**
 
 
-
-
+- Exemplo:
+    - context-api_112
 
 
 
