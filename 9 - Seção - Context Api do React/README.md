@@ -27,6 +27,11 @@ npm create vite@latest
 npm install
 ```
 
+- Instala as dependências do React Router Dom
+```
+npm install react-router-dom
+```
+
 - Roda o projeto com vite
 ```
 npm run dev
@@ -115,10 +120,18 @@ npm run dev
 
 
 
+### 116 - Criando um contexto mais complexo
 
+**Contexto mais complexo**
 
+- Contextos mais completos podem ter **variações no comportamento**
+- Para isso vamos utilizar um hook chamado `useReducer`
+- Que **é como um useState**, mas para controle de dados complexos
+- No reducer teremos diferentes ações com um `switch`
+- E na aplicação vamos consumir o estado atual do dado que está no reducer
 
-
+- Exemplo:
+    - context-api_116
 
 
 
